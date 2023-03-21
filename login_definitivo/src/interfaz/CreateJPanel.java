@@ -442,7 +442,7 @@ public class CreateJPanel extends javax.swing.JPanel {
     }//GEN-LAST:event_emailTextFieldActionPerformed
 
 
-    // Variables declaration - do not modify//GEN-BEGIN:variables
+    // Variables declaration - do not modify//
     private javax.swing.JTextField bankTextField;
     private javax.swing.JButton createBtn;
     private javax.swing.JTextField dobTextField;
